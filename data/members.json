@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nama": "Ilan Al Iman",
+    "jabatan": "Ketua Kelas",
+    "nis": "12001",
+    "foto": "https://oneclass.vercel.app/images/ilan.jpg"
+  },
+  {
+    "id": 2,
+    "nama": "Fadli Rahman",
+    "jabatan": "Wakil Ketua",
+    "nis": "12002",
+    "foto": "https://oneclass.vercel.app/images/fadli.jpg"
+  }
+]
